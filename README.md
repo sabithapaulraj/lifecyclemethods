@@ -157,12 +157,8 @@ public class MainActivity extends AppCompatActivity {
 ![WhatsApp Image 2024-03-13 at 22 56 55_ad88e517](https://github.com/sabithapaulraj/lifecyclemethods/assets/118343379/5f65283c-4158-4fed-9757-f9659751a852)
 ![WhatsApp Image 2024-03-13 at 22 56 55_278a2fd3](https://github.com/sabithapaulraj/lifecyclemethods/assets/118343379/6717a09c-0f83-493d-be43-3c4c1def483c)
 
-
-
-
-
-
-
+## Working in Android Studio
+![Screenshot 2024-04-20 185219](https://github.com/sabithapaulraj/lifecyclemethods/assets/118343379/91367471-45b1-400b-b9bb-6a099c87f4f3)
 
 
 ## RESULT
